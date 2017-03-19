@@ -20,6 +20,7 @@ public class Widget {
 	 * @return true if enabled, false otherwise
 	 */
 	public boolean isEnabled() {
+		int i=0
 		return enabled;
 	}
 
